@@ -1,0 +1,14 @@
+{
+  "name": "module-3-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "For-in-Loop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nazmul",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
